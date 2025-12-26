@@ -1,0 +1,30 @@
+{
+	"chance_time": {
+		"sounds": ["mcp:voice/chance_time"]
+	},
+		
+	"start": {
+		"sounds": ["mcp:voice/start"]
+	},
+	
+	"finish": {
+		"sounds": ["mcp:voice/finish"]
+	},
+	
+	"ready": {
+		"sounds": ["mcp:voice/ready"]
+	},
+	
+	"miss": {
+		"sounds":["mcp:voice/miss"]
+	},
+	
+	"time_up": {
+		"sounds": ["mcp:voice/time_up"]
+	},
+	
+	"in_the_pipe": {
+		"sounds": ["mcp:music/in_the_pipe"]
+	}
+
+}
